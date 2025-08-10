@@ -1,6 +1,6 @@
 {
   "name": "link-transition-ross",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A React component and hook for animated page transitions using view transitions API. Supports fade, slide, and zoom effects for smooth navigation in React Router apps.",
   "homepage": "https://link-transitions-ross.pages.dev",
   "repository": {
