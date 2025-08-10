@@ -27,7 +27,7 @@ npm install react-router-dom
   <li>📁 Code demo: <a href="https://github.com/Ross1736/demo-link-transition-ross.git" target="_blank">https://github.com/Ross1736/demo-link-transition-ross.git</a></li>
 </ul>
 
-![Demo visual](https://raw.githubusercontent.com//Ross1736/link-transition/main/src/img/img.png)
+![Demo visual](https://raw.githubusercontent.com/Ross1736/link-transition/refs/heads/main/src/img/img.png)
 
 ## Setup
 
