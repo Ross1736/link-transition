@@ -1,0 +1,61 @@
+{
+  "name": "link-transition",
+  "version": "1.0.0",
+  "description": "Link Transition",
+  "homepage": "https://link-transition.dev",
+  "main": "dist/index.js",
+  "module": "dist/index.es.js",
+  "types": "dist/index.d.ts",
+  "type": "module",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "rollup -c",
+    "dev": "rollup -c -w"
+  },
+  "keywords": [
+    "react",
+    "view transition",
+    "component",
+    "link transition",
+    "link",
+    "transition",
+    "animation",
+    "react-transition",
+    "react-component",
+    "react-view-transition",
+    "react-link-transition",
+    "react-link-view-transition",
+    "link-transition",
+    "link-view-transition",
+    "view-transition",
+    "component-transition",
+    "component-view-transition",
+    "component-link-transition",
+    "typescript",
+    "javascript",
+    "ts",
+    "js"
+  ],
+  "author": "Ross Ticona Valencia",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "react-router-dom": "^7.8.0",
+    "tslib": "^2.8.1"
+  },
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^28.0.6",
+    "@rollup/plugin-node-resolve": "^16.0.1",
+    "@rollup/plugin-typescript": "^12.1.4",
+    "@types/react": "^19.1.9",
+    "@types/react-dom": "^19.1.7",
+    "rollup": "^4.46.2",
+    "rollup-plugin-dts": "^6.2.1",
+    "rollup-plugin-peer-deps-external": "^2.2.4",
+    "rollup-plugin-postcss": "^4.0.2",
+    "typescript": "^5.9.2"
+  }
+}
