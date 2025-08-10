@@ -20,6 +20,15 @@ npm install link-transition-ross
 npm install react-router-dom
 ```
 
+## 🔗 Demo and example
+
+<ul>
+  <li>💻 Demo: <a href="https://link-transitions-ross.pages.dev/" target="_blank">https://link-transitions-ross.pages.dev/</a></li>
+  <li>📁 Code demo: <a href="https://github.com/Ross1736/demo-link-transition-ross.git" target="_blank">https://github.com/Ross1736/demo-link-transition-ross.git</a></li>
+</ul>
+
+![Demo visual](https://raw.githubusercontent.com//Ross1736/link-transition/main/src/img/img.png)
+
 ## Setup
 
 Make sure your app is wrapped in a React Router context for `LinkTransition` to work properly. You can use either:
