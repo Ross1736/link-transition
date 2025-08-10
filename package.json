@@ -1,8 +1,28 @@
 {
   "name": "link-transition-ross",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A React component and hook for animated page transitions using view transitions API. Supports fade, slide, and zoom effects for smooth navigation in React Router apps.",
   "homepage": "https://link-transitions-ross.pages.dev",
+  "keywords": [
+    "react",
+    "react-component",
+    "component",
+    "link-transition",
+    "view-transition",
+    "page-transition",
+    "fade",
+    "slide",
+    "zoom",
+    "animation",
+    "react-router",
+    "react-router-dom",
+    "router",
+    "navigation",
+    "transition",
+    "animations",
+    "typescript"
+  ],
+  "license": "GPL-3.0",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Ross1736/link-transition.git"
