@@ -10,6 +10,34 @@ LinkTransition is a React component to create links with animated page transitio
 
 ---
 
+## Install
+
+```bash
+npm install link-transition-ross
+```
+
+```bash
+npm install react-router-dom
+```
+
+## Setup
+
+Make sure your app is wrapped in a React Router context for `LinkTransition` to work properly. You can use either:
+
+### Using `BrowserRouter` with `Routes`
+
+```tsx
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+
+<BrowserRouter>
+  <Routes>
+    <Route path="/" element={<Home />} />
+    <Route path="/about" element={<About />} />
+    {/* other routes */}
+  </Routes>
+</BrowserRouter>;
+```
+
 ## Usage
 
 ```tsx
@@ -25,8 +53,6 @@ import { LinkTransition } from "link-transition-ross";
 ### `useLinkTransition()`
 
 Hook that exposes the `linkTransition` function to perform navigation's with animation.
-
-**Uso:**
 
 ```tsx
 import { useLinkTransition } from "link-transition-ross";
