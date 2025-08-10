@@ -1,1 +1,1 @@
-export { default as LinkTransition } from "./LinkTransition";
+export { default as LinkTransition, useLinkTransition } from "./LinkTransition";
